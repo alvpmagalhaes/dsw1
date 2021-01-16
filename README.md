@@ -1,5 +1,3 @@
-# dsw1
-
 # DSW-T1
 Trabalho 1 da disciplina de Desenvolvimento de Software para WEB da UFSCar, ministrada pelo Professor Delano Beder.
 
